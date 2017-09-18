@@ -1,0 +1,10 @@
+
+env/
+
+django_easy_auth\.egg-info/
+
+dist/
+
+easy_auth/__pycache__/
+
+easy_auth/test/__pycache__/
