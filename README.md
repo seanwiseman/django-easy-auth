@@ -1,4 +1,4 @@
-[![Code Health](https://landscape.io/github/seanwiseman/django-easy-auth/master/landscape.svg?style=flat)](https://landscape.io/github/seanwiseman/django-easy-auth/master)
+[![Code Health](https://landscape.io/github/seanwiseman/django-easy-auth/master/landscape.svg?style=flat)](https://landscape.io/github/seanwiseman/django-easy-auth/master) [![Requirements Status](https://requires.io/github/seanwiseman/django-easy-auth/requirements.svg?branch=master)](https://requires.io/github/seanwiseman/django-easy-auth/requirements/?branch=master)
 
 # django-easy-auth
 This app allows you drop in user authentication functionality using Django's built in views.
